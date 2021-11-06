@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-05T13:48:22+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-06T12:37:40+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///D:/Linda/ELAN/NataliaInglina.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./NataliaInglina.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d81a40cc-da7c-42ba-980d-bb131b528a2d</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">5713</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">5723</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="31"/>
@@ -4638,8 +4638,28 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5714" ANNOTATION_REF="a4234">
+                <ANNOTATION_VALUE>what is value for you?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5715" ANNOTATION_REF="a4235">
+                <ANNOTATION_VALUE>what is value for you in general?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>but will it be appropriate yes will it be approptiate here the phrase aaa that what we have we keep and when we loose it we cry </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but will it be appropriate</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5717" ANNOTATION_REF="a4236">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5716" ANNOTATION_REF="a4237">
+                <ANNOTATION_VALUE>will it be appropriate here the phrase aaa that what we have we don't keep and when we lose it we cry</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4649,7 +4669,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>you have a lot of them they are different and the I probably can say like that catastrofically different: on the one hand it is the hard harsh politics, on the other hand it is big event car in which you are not only one year so to speak why?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>you have a lot of them they are different and the I probably can say like that catastrofically different: on the one hand it is the hard harsh politics, on the other hand it is big event car in which you are not only one year so to speak</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5719" ANNOTATION_REF="a4185">
+                <ANNOTATION_VALUE>why?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4999,6 +5024,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a29">
                 <ANNOTATION_VALUE>because of</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5718" ANNOTATION_REF="a4238">
+                <ANNOTATION_VALUE>mmm</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5438,7 +5468,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a135">
-                <ANNOTATION_VALUE>I'm sencerely glad every evening when my child comes in my room hugs me and tell: have you got five minutes to talk?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I'm sencerely glad every evening when my child comes in my room hugs me and tell</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5720" ANNOTATION_REF="a4240">
+                <ANNOTATION_VALUE>have you got five minutes to talk?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5449,6 +5484,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a137">
                 <ANNOTATION_VALUE>it gives me such joy that my children communicate with me, children share with me, children want to talk to me and if we</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5721" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>in</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5494,6 +5534,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a378" ANNOTATION_REF="a147">
                 <ANNOTATION_VALUE>we have the family tradition</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5722" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>aa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5548,7 +5593,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a389" ANNOTATION_REF="a159">
-                <ANNOTATION_VALUE>but! however</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5723" ANNOTATION_REF="a4241">
+                <ANNOTATION_VALUE>however</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
